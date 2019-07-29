@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Netfonds </title>
+<link href="http://www.netfonds.no/static/css/netfonds.css?ts=1490904009" rel="stylesheet"  type="text/css">
+<link rel="SHORTCUT ICON" href="http://www.netfonds.no/static/bits/favicon.ico">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" /> 
+<meta name="format-detection" content="telephone=no" /> 
+</head>
+<body class="hbody">
+<table class=twholepage>
+<tr>
+<td class=logoside><span width="1px"></span></td>
+<td class="maincolumn">
+<div class="hlogostrip"><table class="hlogostrip"><tr>
+<td class="hlogo"><div class="hlogo"><a href="http://www.netfonds.no/"><img src="http://www.netfonds.no/static/bits/netfonds_bank_logo_blue.png?ts=1439118048" alt="Netfonds Bank AS" title="Netfonds Bank AS" width=220 height=30 border=0></a></div>
+</td>
+<td class="hunlogo"><a href="https://www.netfonds.no/account/login.php">Logg inn</a><span>&nbsp;|&nbsp;<a href="/paperhistory.php?paper=MS-AMFA.FOND&amp;csv_format=csv&amp;help=t" style="color: #00599a">Hjelp</a></span><span style="display: none; cursor: pointer;" id="topupdate" value="&nbsp;|&nbsp;Stopp oppdatering">&nbsp;|&nbsp;Start oppdatering</span>&nbsp;<form action="meta-paper.php" method=get name="gototick" class=hsearch autocomplete=off>
+<input type="hidden" name="exchange" value="OSE" />
+<input class="pinput" id=papersearch type=text name="paper" size=6>&nbsp;<input type=submit class=hsearch value="Søk"></form>
+<span class="middle">
+&nbsp;&nbsp;<a href="setlanguage.php?language=en_GB&originating_page=http://hopey.netfonds.no/paperhistory.php?paper=MS-AMFA.FOND&amp;csv_format=csv"><img src="http://www.netfonds.no/static/bits/flag_gb_24.png" alt=""  border="0" /></a></span>
+</td>
+</tr>
+</table>
+</div>
+
+</td>
+<td class=logoside><span width="1px"></span></td>
+</tr>
+
+<tr>
+<td class=menutopside></td>
+<td class="maincolumn">
+
+<div class="hmenustrip">
+<table class=hmenustrip><tr><td nowrap>
+<a href="http://www.netfonds.no/index.php">Netfonds</a><span class="topmenuitem"><a href="https://www.netfonds.no/account/registration.php">Bli kunde</a></span><span class="topmenuitem"><a href="https://www.netfonds.no/account/login.php">Min konto</a></span><span class="topmenuitem"><a href="https://www.netfonds.no/account/handel.php">Handel</a></span><span class="topmenuitem"><a href="http://www.netfonds.no/investeringskonto-intro.php">Investeringskonto</a></span><span class="topmenuitem"><a href="http://www.netfonds.no/aksjesparekonto-intro.php">ASK</a></span><span class="topmenuitem"><a href="http://www.netfonds.no/kreditt-intro.php">Belåning</a></span><span class="topmenuitem"><a href="https://www.netfonds.no/account/managed-intro.php">Aktiv forvaltning</a></span><span class="topmenuitem"><a href="http://www.netfonds.no/quotes/market.php">Markedsplasser</a></span></span></td></tr></table></div>
+</td>
+<td class=menutopside></td>
+</tr>
+<tr>
+<td></td>
+<td class="maincolumn">
+<table class=homaintable><tr valign=top><td class="hcontent"><div class="hcontent"><script type="text/javascript" src="http://www.netfonds.no/static/js/general-min-gen.js?ts=1493151070"></script><script type="text/javascript" src="http://www.netfonds.no/static/js/paper-search-min-gen.js?ts=1493151084"></script><script  language="JavaScript" type="text/javascript">paperSearchBaseUrl = "";</script>
+<script  language="JavaScript" type="text/javascript">var imgUrl = "http://www.netfonds.no/static/";
+</script>
+Denne aksjen finnes ikke.<script  language="JavaScript" type="text/javascript">decorateSearch("papersearch");</script>
+</div>
+</td>
+</tr>
+</table>
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td class=bottomside><div></div></td>
+<td class=maincolumn>
+
+<div class="hend">
+<table class="bottomtable">
+<tr>
+<td>
+<span class="hbottommenu">
+<a href="layout.php">Utforming</a>&nbsp;|&nbsp;
+<a href="http://hopey.netfonds.no/paperhistory.php?paper=MS-AMFA.FOND&amp;csv_format=csv&amp;help=t">Hjelp</a>&nbsp;|&nbsp;
+<a href="http://hopey.netfonds.no/paperhistory.php?paper=MS-AMFA.FOND&amp;csv_format=csv&amp;layout=print">Utskrift</a> 
+</span>
+</td>
+<td class="hbottomlinestop">
+<span class="hbottomlinestop">
+&nbsp;Åpne markeder: <a href="market.php?exchange=O">Nasdaq</a>, <a href="market.php?exchange=N">Nyse</a>, <a href="market.php?exchange=A">Amex</a></span>
+</td>
+</tr>
+
+<tr>
+<td class="hbottomlineclock" colspan=2>
+<span id=toptime>
+onsdag 10/05-2017 20:13:21</span>
+</td>
+</tr>
+</table>
+
+</div>
+
+</td>
+<td class=bottomside><div></div></td>
+</tr>
+
+<tr>
+<td class=mainside></td>
+<td class=maincolumn>
+<div class="end-comstock">
+</div>
+</td>
+<td class=mainside></td>
+</tr>
+
+</table>
+
+
+</body>
+</html>
+
